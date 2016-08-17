@@ -80,11 +80,7 @@ public class HeadPlugin extends JavaPlugin implements Listener{
                                 else{
                                 	
                         	}
-                        	
-                        	
-                            
-                            p.openInventory(playerInv);
-                            
+                  
                             return;
                         }
                     }, 60L);
